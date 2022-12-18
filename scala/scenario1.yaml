@@ -1,0 +1,16 @@
+base-group:
+  - speed: 100
+  - speed: 50
+  - speed: 20
+  - speed: 10
+crossings:
+  - length: 100
+    group:
+  - length: 250
+    group:
+      - speed: 2.5
+  - length: 150
+    group:
+      - speed: 25
+      - speed: 15
+
